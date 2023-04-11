@@ -1,4 +1,4 @@
-import { CartItem, CartItems, CART_ACTION_TYPES } from './cart.types';
+import { CartItem, CART_ACTION_TYPES } from './cart.types';
 import {
   ActionWithPayload,
   createAction,
